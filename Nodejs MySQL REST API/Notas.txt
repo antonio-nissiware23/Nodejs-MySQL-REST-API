@@ -1,0 +1,8 @@
+/*Importante*/
+
+El programa hasta donde está es solo para desarrollador, si queremos mandarlo a producción se debe
+utilizar el .env, la cual son las variables de entorno. 
+
+Esto queda hasta parte de desarrollador para comprensión 
+
+https://www.youtube.com/watch?v=3dSkc-DIM74&t=3407s  ver parte de Variables de entorno
